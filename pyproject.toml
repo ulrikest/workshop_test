@@ -9,4 +9,5 @@ authors = [
 dependencies = [
     "numpy", 
     "pandas",
+    "pytest",
 ]
